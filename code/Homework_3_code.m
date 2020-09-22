@@ -1,4 +1,5 @@
-% IMAGING FOR NEUROSCIENCE 
+% IMAGING FOR NEUROSCIENCE
+ 
 % Final project, Homework 3
 % AUTHOR: Giulia Bressan
 % I.D.: 1206752
